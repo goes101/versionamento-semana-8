@@ -1,0 +1,1 @@
+[![Minha Primeira Linha de Montagem](https://github.com/goes101/versionamento-semana-8/actions/workflows/main.yml/badge.svg)](https://github.com/goes101/versionamento-semana-8/actions/workflows/main.yml)
